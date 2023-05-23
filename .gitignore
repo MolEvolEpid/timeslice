@@ -1,0 +1,6 @@
+trees/rules.csv
+trees/topology.csv
+trees/window.csv
+trees/mk2/
+*.pyc
+__pycache__
